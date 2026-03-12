@@ -5,6 +5,6 @@
     "windows": "C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe",
     "linux": "/usr/bin/wkhtmltopdf"
   },
-  "model_dir": "model",
+  "model_dir": "dronenlp/DroNER",
   "app_version": "v0.1.0"
 }

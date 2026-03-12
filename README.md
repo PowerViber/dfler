@@ -86,7 +86,7 @@ You can optionally use a `config.json` file instead of passing long arguments.
 {
     "source_evidence": "./flight_logs",
     "output_dir": "./results/test_run",
-    "model_dir": "./model",
+    "model_dir": "dronenlp/DroNER",
     "wkhtml_path": {
         "windows": "C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe",
         "linux": "/usr/bin/wkhtmltopdf"
